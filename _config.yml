@@ -2,6 +2,8 @@
 # Name of website
 title: Meteo Website
 
+theme: minima
+
 redirect_from:
   - /pages/app-downloads/
 
