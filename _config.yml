@@ -4,6 +4,9 @@ title: Meteo Website
 
 theme: minima
 
+url: meteo-team.github.io
+baseurl: /meteo-website
+
 redirect_from:
   - /pages/app-downloads/
 
