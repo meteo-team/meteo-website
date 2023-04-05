@@ -1,0 +1,13 @@
+
+# Name of website
+title: Meteo Website
+
+redirect_from:
+  - /pages/app-downloads/
+
+# https://github.com/jekyll/jekyll-redirect-from
+
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
