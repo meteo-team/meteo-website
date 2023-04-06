@@ -8,4 +8,4 @@ gemspec
 
 # gem "minima"
 # gem 'github-pages'
-# gem 'jekyll-redirect-from'
+gem 'jekyll-redirect-from'
