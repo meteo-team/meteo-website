@@ -8,6 +8,10 @@ baseurl: /meteo-website
 # redirect_from:
 #   - /pages/app-downloads/
 
+permalink: /pages/app-downloads
+redirect_to:
+  - http://www.example.com
+
 # https://github.com/jekyll/jekyll-redirect-from
 
 plugins:
