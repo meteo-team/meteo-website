@@ -2,17 +2,15 @@
 # Name of website
 title: Meteo Website
 
-theme: minima
-
-url: meteo-team.github.io
+url: https://meteo-team.github.io
 baseurl: /meteo-website
 
-redirect_from:
-  - /pages/app-downloads/
+# redirect_from:
+#   - /pages/app-downloads/
 
 # https://github.com/jekyll/jekyll-redirect-from
 
-plugins:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
+# plugins:
+#   - jekyll-redirect-from
+# whitelist:
+#   - jekyll-redirect-from
