@@ -10,7 +10,7 @@ baseurl: /meteo-website
 
 # https://github.com/jekyll/jekyll-redirect-from
 
-# plugins:
-#   - jekyll-redirect-from
-# whitelist:
-#   - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
