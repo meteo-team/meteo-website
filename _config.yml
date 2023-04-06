@@ -10,7 +10,7 @@ baseurl: /meteo-website
 
 permalink: /pages/app-downloads
 redirect_to:
-  - http://www.example.com
+  - https://meteo-team.github.io/meteo-website/app-download.html
 
 # https://github.com/jekyll/jekyll-redirect-from
 
